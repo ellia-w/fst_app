@@ -6,7 +6,7 @@ using System;
 class Example
 {
     //method main
-    static void Main()
+    static void Main1()
     {
         Console.WriteLine("simple program on C4+.");
     }
